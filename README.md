@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # ⭐ Learn‑Hub
 
 *Learn‑Hub* is a comprehensive open-source learning platform featuring practical tutorials, structured projects, and coding resources—designed to help users strengthen their web development and programming skills.
