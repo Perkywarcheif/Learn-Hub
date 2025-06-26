@@ -115,9 +115,9 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📄 License & Contact
 
-- *License*: MIT (or your preferred license)  
-- *Author: *Perkywarcheif  
-- *Contact*: [Insert email or portfolio link]
+- *License*: MIT  
+- *Author*: Perkywarcheif  
+- *Contact*: anirudh.mamilla1@gmail.com
 
 ---
 
@@ -133,5 +133,43 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## ✅ Summary
 
-Learn‑Hub empowers learners and educators with an end-to-end ed-tech ecosystem built on modern web technologies: *React, **Node.js, **MongoDB, **Razorpay, and **Cloudinary*. It’s perfect for both real-world usage and portfolio showcase, with huge potential for future feature development.
-EOF
+## ✅ Summary
+
+Learn‑Hub empowers learners and educators with an end-to-end ed-tech ecosystem built using modern web technologies:
+
+### 🚀 Frontend
+- *React.js*  
+- *React Router DOM*
+- *Context API / Redux* (optional based on your setup)
+- *Framer Motion* (animations)  
+- *Swiper.js* (sliders)  
+- *Chart.js* (charts/analytics)
+- *React Dropzone* (file uploads)
+- *React OTP Input* (OTP UI)
+- *React Toastify* (notifications)
+- *Axios* (API requests)
+- *Tailwind CSS* or *CSS Modules* / *Bootstrap* (based on your styling)
+- *Lazy loading* and *responsive components*
+
+### 🛠 Backend
+- *Node.js*
+- *Express.js*
+- *MongoDB* with *Mongoose*
+- *JWT Authentication*
+- *Bcrypt.js* (password hashing)
+- *Razorpay SDK* (payment gateway)
+- *Cloudinary SDK* (media storage and retrieval)
+- *Multer* (file handling)
+- *Dotenv* (env config)
+- *Cors, **Helmet, **Morgan, **Cookie-parser* (security/middleware)
+
+---
+
+It’s perfect for both *real-world ed-tech usage* and a *portfolio showcase*, with huge potential for adding future features like:
+- Quiz modules  
+- Student progress tracking  
+- AI-based recommendations  
+- Community forums  
+- Leaderboards and gamification
+
+---
