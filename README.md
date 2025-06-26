@@ -34,23 +34,23 @@
 
 ## 📦 Project Structure
 
-\\\`
+```
 /frontend      # React client-side application  
 /backend       # Node/Express RESTful API server  
 .gitignore  
 README.md
-\\\`
+```
 
-- *frontend/*: Contains the React app, UI components, page layouts, routing logic, and user-facing features.  
-- *backend/*: Houses Express routes, controllers, middleware, authentication and payment logic, database models (MongoDB), and API documentation.
+* **frontend/**: Contains the React app, UI components, page layouts, routing logic, and user-facing features.
+* **backend/**: Houses Express routes, controllers, middleware, authentication and payment logic, database models (MongoDB), and API documentation.
 
 ---
 
 ## 🛠 Tech Stack
 
-- *Frontend*: React, React Router, Context/Redux, Framer Motion, Chart.js, Cloudinary integration  
-- *Backend*: Node.js, Express.js, MongoDB (Mongoose), JWT-based authentication, Razorpay payments, Cloudinary SDK  
-- *Dev Tools*: ESLint, Prettier, Postman for API testing  
+* **Frontend**: React, React Router, Context/Redux, Framer Motion, Chart.js, Cloudinary integration
+* **Backend**: Node.js, Express.js, MongoDB (Mongoose), JWT-based authentication, Razorpay payments, Cloudinary SDK
+* **Dev Tools**: ESLint, Prettier, Postman for API testing
 
 ---
 
@@ -58,14 +58,14 @@ README.md
 
 ### 1. Clone the Repo
 
-\\\`bash
+```bash
 git clone https://github.com/Perkywarcheif/Learn-Hub.git
 cd Learn-Hub
-\\\`
+```
 
 ### 2. Backend Setup
 
-\\\`bash
+```bash
 cd backend
 npm install
 cp .env.sample .env
@@ -73,23 +73,24 @@ cp .env.sample .env
 # MONGO_URI, JWT_SECRET, CLOUDINARY_NAME, CLOUDINARY_KEY, CLOUDINARY_SECRET,
 # RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET
 npm run dev
-\\\`
+```
 
 ### 3. Frontend Setup
 
-\\\`bash
+```bash
 cd ../frontend
 npm install
 cp .env.sample .env
 # Set REACT_APP_API_URL to your backend base URL
 npm start
-\\\`
+```
 
 ### 4. Open in Browser
 
-Visit: \http://localhost:3000\
+Visit: [http://localhost:5173](http://localhost:5173)
 
 ---
+
 
 ## 📚 Usage Guide
 
