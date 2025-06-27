@@ -137,8 +137,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## ✅ Summary
 
-## ✅ Summary
-
 Learn‑Hub empowers learners and educators with an end-to-end ed-tech ecosystem built using modern web technologies:
 
 ### 🚀 Frontend
